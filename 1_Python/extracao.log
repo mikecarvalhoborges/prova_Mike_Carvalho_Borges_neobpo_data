@@ -123,3 +123,423 @@
 2026-10-17 01:26:32,123 [INFO] Página coletada com sucesso. Total acumulado: 12288 registros...
 2026-10-17 01:26:34,347 [INFO] Página coletada com sucesso. Total acumulado: 100 registros...
 2026-10-17 01:26:35,177 [INFO] Página coletada com sucesso. Total acumulado: 125 registros...
+2026-10-17 17:59:32,172 [INFO] ===== INÍCIO DA EXTRAÇÃO DO KAGGLE =====
+2026-10-17 17:59:32,172 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-17 17:59:32,173 [INFO] ====== WebDriver manager ======
+2026-10-17 17:59:33,361 [INFO] Get LATEST chromedriver version for google-chrome
+2026-10-17 17:59:33,511 [INFO] There is no [win64] chromedriver "155.0.8059.84" for browser google-chrome "155.0.8059" in cache
+2026-10-17 17:59:34,195 [INFO] There is no [win64] chromedriver "155.0.8059.84" for browser google-chrome "155.0.8059" in cache
+2026-10-17 17:59:34,196 [INFO] Get LATEST chromedriver version for google-chrome
+2026-10-17 17:59:34,513 [INFO] WebDriver version 155.0.8059.84 selected
+2026-10-17 17:59:34,519 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/155.0.8059.84/win64/chromedriver-win64.zip
+2026-10-17 17:59:34,520 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/155.0.8059.84/win64/chromedriver-win64.zip
+2026-10-17 17:59:34,876 [INFO] Driver downloading response is 200
+2026-10-17 17:59:36,351 [INFO] Driver has been saved in cache [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84]
+2026-10-17 17:59:39,392 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-17 17:59:43,395 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-17 17:59:45,602 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-17 17:59:45,782 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-17 17:59:45,782 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-17 17:59:45,783 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-17 17:59:50,046 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-17 17:59:53,644 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-17 17:59:53,950 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-17 17:59:54,365 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-17 17:59:57,455 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-17 18:00:00,817 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-17 18:00:04,257 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
+2026-10-17 18:00:07,484 [INFO] 8/60 Convertido: HAGENT_2024-08-08.xlsx -> HAGENT_2024-08-08.csv
+2026-10-17 18:00:10,503 [INFO] 9/60 Convertido: HAGENT_2024-08-09.xlsx -> HAGENT_2024-08-09.csv
+2026-10-17 18:00:10,926 [INFO] 10/60 Convertido: HAGENT_2024-08-10.xlsx -> HAGENT_2024-08-10.csv
+2026-10-17 18:00:11,262 [INFO] 11/60 Convertido: HAGENT_2024-08-11.xlsx -> HAGENT_2024-08-11.csv
+2026-10-17 18:00:14,440 [INFO] 12/60 Convertido: HAGENT_2024-08-12.xlsx -> HAGENT_2024-08-12.csv
+2026-10-17 18:00:17,837 [INFO] 13/60 Convertido: HAGENT_2024-08-13.xlsx -> HAGENT_2024-08-13.csv
+2026-10-17 18:00:21,344 [INFO] 14/60 Convertido: HAGENT_2024-08-14.xlsx -> HAGENT_2024-08-14.csv
+2026-10-17 18:00:24,740 [INFO] 15/60 Convertido: HAGENT_2024-08-15.xlsx -> HAGENT_2024-08-15.csv
+2026-10-17 18:00:27,628 [INFO] 16/60 Convertido: HAGENT_2024-08-16.xlsx -> HAGENT_2024-08-16.csv
+2026-10-17 18:00:28,061 [INFO] 17/60 Convertido: HAGENT_2024-08-17.xlsx -> HAGENT_2024-08-17.csv
+2026-10-17 18:00:28,503 [INFO] 18/60 Convertido: HAGENT_2024-08-18.xlsx -> HAGENT_2024-08-18.csv
+2026-10-17 18:00:31,663 [INFO] 19/60 Convertido: HAGENT_2024-08-19.xlsx -> HAGENT_2024-08-19.csv
+2026-10-17 18:00:34,894 [INFO] 20/60 Convertido: HAGENT_2024-08-20.xlsx -> HAGENT_2024-08-20.csv
+2026-10-17 18:00:38,095 [INFO] 21/60 Convertido: HAGENT_2024-08-21.xlsx -> HAGENT_2024-08-21.csv
+2026-10-17 18:00:41,185 [INFO] 22/60 Convertido: HAGENT_2024-08-22.xlsx -> HAGENT_2024-08-22.csv
+2026-10-17 18:00:44,110 [INFO] 23/60 Convertido: HAGENT_2024-08-23.xlsx -> HAGENT_2024-08-23.csv
+2026-10-17 18:00:44,591 [INFO] 24/60 Convertido: HAGENT_2024-08-24.xlsx -> HAGENT_2024-08-24.csv
+2026-10-17 18:00:45,077 [INFO] 25/60 Convertido: HAGENT_2024-08-25.xlsx -> HAGENT_2024-08-25.csv
+2026-10-17 18:00:48,328 [INFO] 26/60 Convertido: HAGENT_2024-08-26.xlsx -> HAGENT_2024-08-26.csv
+2026-10-17 18:00:51,403 [INFO] 27/60 Convertido: HAGENT_2024-08-27.xlsx -> HAGENT_2024-08-27.csv
+2026-10-17 18:00:54,755 [INFO] 28/60 Convertido: HAGENT_2024-08-28.xlsx -> HAGENT_2024-08-28.csv
+2026-10-17 18:00:58,624 [INFO] 29/60 Convertido: HAGENT_2024-08-29.xlsx -> HAGENT_2024-08-29.csv
+2026-10-17 18:01:02,288 [INFO] 30/60 Convertido: HAGENT_2024-08-30.xlsx -> HAGENT_2024-08-30.csv
+2026-10-17 18:01:03,187 [INFO] 31/60 Convertido: HSPLIT_2024-08-01.xlsx -> HSPLIT_2024-08-01.csv
+2026-10-17 18:01:04,090 [INFO] 32/60 Convertido: HSPLIT_2024-08-02.xlsx -> HSPLIT_2024-08-02.csv
+2026-10-17 18:01:04,764 [INFO] 33/60 Convertido: HSPLIT_2024-08-03.xlsx -> HSPLIT_2024-08-03.csv
+2026-10-17 18:01:05,486 [INFO] 34/60 Convertido: HSPLIT_2024-08-04.xlsx -> HSPLIT_2024-08-04.csv
+2026-10-17 18:01:06,338 [INFO] 35/60 Convertido: HSPLIT_2024-08-05.xlsx -> HSPLIT_2024-08-05.csv
+2026-10-17 18:01:07,175 [INFO] 36/60 Convertido: HSPLIT_2024-08-06.xlsx -> HSPLIT_2024-08-06.csv
+2026-10-17 18:01:08,040 [INFO] 37/60 Convertido: HSPLIT_2024-08-07.xlsx -> HSPLIT_2024-08-07.csv
+2026-10-17 18:01:08,946 [INFO] 38/60 Convertido: HSPLIT_2024-08-08.xlsx -> HSPLIT_2024-08-08.csv
+2026-10-17 18:01:09,824 [INFO] 39/60 Convertido: HSPLIT_2024-08-09.xlsx -> HSPLIT_2024-08-09.csv
+2026-10-17 18:01:10,523 [INFO] 40/60 Convertido: HSPLIT_2024-08-10.xlsx -> HSPLIT_2024-08-10.csv
+2026-10-17 18:01:11,226 [INFO] 41/60 Convertido: HSPLIT_2024-08-11.xlsx -> HSPLIT_2024-08-11.csv
+2026-10-17 18:01:12,110 [INFO] 42/60 Convertido: HSPLIT_2024-08-12.xlsx -> HSPLIT_2024-08-12.csv
+2026-10-17 18:01:13,075 [INFO] 43/60 Convertido: HSPLIT_2024-08-13.xlsx -> HSPLIT_2024-08-13.csv
+2026-10-17 18:01:13,981 [INFO] 44/60 Convertido: HSPLIT_2024-08-14.xlsx -> HSPLIT_2024-08-14.csv
+2026-10-17 18:01:14,871 [INFO] 45/60 Convertido: HSPLIT_2024-08-15.xlsx -> HSPLIT_2024-08-15.csv
+2026-10-17 18:01:15,728 [INFO] 46/60 Convertido: HSPLIT_2024-08-16.xlsx -> HSPLIT_2024-08-16.csv
+2026-10-17 18:01:16,399 [INFO] 47/60 Convertido: HSPLIT_2024-08-17.xlsx -> HSPLIT_2024-08-17.csv
+2026-10-17 18:01:17,070 [INFO] 48/60 Convertido: HSPLIT_2024-08-18.xlsx -> HSPLIT_2024-08-18.csv
+2026-10-17 18:01:17,872 [INFO] 49/60 Convertido: HSPLIT_2024-08-19.xlsx -> HSPLIT_2024-08-19.csv
+2026-10-17 18:01:18,814 [INFO] 50/60 Convertido: HSPLIT_2024-08-20.xlsx -> HSPLIT_2024-08-20.csv
+2026-10-17 18:01:19,736 [INFO] 51/60 Convertido: HSPLIT_2024-08-21.xlsx -> HSPLIT_2024-08-21.csv
+2026-10-17 18:01:20,580 [INFO] 52/60 Convertido: HSPLIT_2024-08-22.xlsx -> HSPLIT_2024-08-22.csv
+2026-10-17 18:01:21,443 [INFO] 53/60 Convertido: HSPLIT_2024-08-23.xlsx -> HSPLIT_2024-08-23.csv
+2026-10-17 18:01:22,243 [INFO] 54/60 Convertido: HSPLIT_2024-08-24.xlsx -> HSPLIT_2024-08-24.csv
+2026-10-17 18:01:23,059 [INFO] 55/60 Convertido: HSPLIT_2024-08-25.xlsx -> HSPLIT_2024-08-25.csv
+2026-10-17 18:01:23,971 [INFO] 56/60 Convertido: HSPLIT_2024-08-26.xlsx -> HSPLIT_2024-08-26.csv
+2026-10-17 18:01:24,981 [INFO] 57/60 Convertido: HSPLIT_2024-08-27.xlsx -> HSPLIT_2024-08-27.csv
+2026-10-17 18:01:25,869 [INFO] 58/60 Convertido: HSPLIT_2024-08-28.xlsx -> HSPLIT_2024-08-28.csv
+2026-10-17 18:01:26,735 [INFO] 59/60 Convertido: HSPLIT_2024-08-29.xlsx -> HSPLIT_2024-08-29.csv
+2026-10-17 18:01:27,592 [INFO] 60/60 Convertido: HSPLIT_2024-08-30.xlsx -> HSPLIT_2024-08-30.csv
+2026-10-17 18:01:27,592 [INFO] Conversões finalizadas com sucesso!
+2026-10-17 18:01:27,593 [INFO] ===== AÇÃO FINALIZADA COM SUCESSO! =====
+2026-10-18 11:53:06,333 [INFO] =====INÍCIO DO PIPELINE DO INTRADAY=====
+2026-10-18 11:53:06,334 [INFO] =====1: Extração do Airtable=====
+2026-10-18 11:53:07,211 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:53:07,954 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:53:08,413 [INFO] Airtable concluído: 0 linhas de FORECAST, 0 de DEPARA_SKILL.
+2026-10-18 11:53:08,417 [INFO] =====2: Extração do Kaggle=====
+2026-10-18 11:53:08,417 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-18 11:53:08,417 [INFO] ====== WebDriver manager ======
+2026-10-18 11:53:09,640 [INFO] Get LATEST chromedriver version for google-chrome
+2026-10-18 11:53:10,474 [INFO] Get LATEST chromedriver version for google-chrome
+2026-10-18 11:53:10,787 [INFO] WebDriver version 155.0.8059.84 selected
+2026-10-18 11:53:10,792 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/155.0.8059.84/win64/chromedriver-win64.zip
+2026-10-18 11:53:10,792 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/155.0.8059.84/win64/chromedriver-win64.zip
+2026-10-18 11:53:11,149 [INFO] Driver downloading response is 200
+2026-10-18 11:53:12,660 [INFO] Driver has been saved in cache [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84]
+2026-10-18 11:53:16,588 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-18 11:53:20,596 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-18 11:53:22,899 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-18 11:53:23,052 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-18 11:53:23,052 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-18 11:53:23,053 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-18 11:53:27,104 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-18 11:53:31,017 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-18 11:53:31,324 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-18 11:53:31,712 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-18 11:53:35,360 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-18 11:53:38,931 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-18 11:53:42,552 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
+2026-10-18 11:53:46,387 [INFO] 8/60 Convertido: HAGENT_2024-08-08.xlsx -> HAGENT_2024-08-08.csv
+2026-10-18 11:53:49,953 [INFO] 9/60 Convertido: HAGENT_2024-08-09.xlsx -> HAGENT_2024-08-09.csv
+2026-10-18 11:53:50,392 [INFO] 10/60 Convertido: HAGENT_2024-08-10.xlsx -> HAGENT_2024-08-10.csv
+2026-10-18 11:53:50,743 [INFO] 11/60 Convertido: HAGENT_2024-08-11.xlsx -> HAGENT_2024-08-11.csv
+2026-10-18 11:53:54,276 [INFO] 12/60 Convertido: HAGENT_2024-08-12.xlsx -> HAGENT_2024-08-12.csv
+2026-10-18 11:53:57,812 [INFO] 13/60 Convertido: HAGENT_2024-08-13.xlsx -> HAGENT_2024-08-13.csv
+2026-10-18 11:54:01,279 [INFO] 14/60 Convertido: HAGENT_2024-08-14.xlsx -> HAGENT_2024-08-14.csv
+2026-10-18 11:54:04,838 [INFO] 15/60 Convertido: HAGENT_2024-08-15.xlsx -> HAGENT_2024-08-15.csv
+2026-10-18 11:54:07,848 [INFO] 16/60 Convertido: HAGENT_2024-08-16.xlsx -> HAGENT_2024-08-16.csv
+2026-10-18 11:54:08,322 [INFO] 17/60 Convertido: HAGENT_2024-08-17.xlsx -> HAGENT_2024-08-17.csv
+2026-10-18 11:54:08,793 [INFO] 18/60 Convertido: HAGENT_2024-08-18.xlsx -> HAGENT_2024-08-18.csv
+2026-10-18 11:54:12,160 [INFO] 19/60 Convertido: HAGENT_2024-08-19.xlsx -> HAGENT_2024-08-19.csv
+2026-10-18 11:54:15,587 [INFO] 20/60 Convertido: HAGENT_2024-08-20.xlsx -> HAGENT_2024-08-20.csv
+2026-10-18 11:54:18,885 [INFO] 21/60 Convertido: HAGENT_2024-08-21.xlsx -> HAGENT_2024-08-21.csv
+2026-10-18 11:54:21,999 [INFO] 22/60 Convertido: HAGENT_2024-08-22.xlsx -> HAGENT_2024-08-22.csv
+2026-10-18 11:54:24,979 [INFO] 23/60 Convertido: HAGENT_2024-08-23.xlsx -> HAGENT_2024-08-23.csv
+2026-10-18 11:54:25,483 [INFO] 24/60 Convertido: HAGENT_2024-08-24.xlsx -> HAGENT_2024-08-24.csv
+2026-10-18 11:54:25,931 [INFO] 25/60 Convertido: HAGENT_2024-08-25.xlsx -> HAGENT_2024-08-25.csv
+2026-10-18 11:54:29,318 [INFO] 26/60 Convertido: HAGENT_2024-08-26.xlsx -> HAGENT_2024-08-26.csv
+2026-10-18 11:54:32,504 [INFO] 27/60 Convertido: HAGENT_2024-08-27.xlsx -> HAGENT_2024-08-27.csv
+2026-10-18 11:54:35,982 [INFO] 28/60 Convertido: HAGENT_2024-08-28.xlsx -> HAGENT_2024-08-28.csv
+2026-10-18 11:54:39,957 [INFO] 29/60 Convertido: HAGENT_2024-08-29.xlsx -> HAGENT_2024-08-29.csv
+2026-10-18 11:54:43,688 [INFO] 30/60 Convertido: HAGENT_2024-08-30.xlsx -> HAGENT_2024-08-30.csv
+2026-10-18 11:54:44,680 [INFO] 31/60 Convertido: HSPLIT_2024-08-01.xlsx -> HSPLIT_2024-08-01.csv
+2026-10-18 11:54:45,664 [INFO] 32/60 Convertido: HSPLIT_2024-08-02.xlsx -> HSPLIT_2024-08-02.csv
+2026-10-18 11:54:46,321 [INFO] 33/60 Convertido: HSPLIT_2024-08-03.xlsx -> HSPLIT_2024-08-03.csv
+2026-10-18 11:54:47,067 [INFO] 34/60 Convertido: HSPLIT_2024-08-04.xlsx -> HSPLIT_2024-08-04.csv
+2026-10-18 11:54:47,963 [INFO] 35/60 Convertido: HSPLIT_2024-08-05.xlsx -> HSPLIT_2024-08-05.csv
+2026-10-18 11:54:48,838 [INFO] 36/60 Convertido: HSPLIT_2024-08-06.xlsx -> HSPLIT_2024-08-06.csv
+2026-10-18 11:54:49,737 [INFO] 37/60 Convertido: HSPLIT_2024-08-07.xlsx -> HSPLIT_2024-08-07.csv
+2026-10-18 11:54:50,676 [INFO] 38/60 Convertido: HSPLIT_2024-08-08.xlsx -> HSPLIT_2024-08-08.csv
+2026-10-18 11:54:51,548 [INFO] 39/60 Convertido: HSPLIT_2024-08-09.xlsx -> HSPLIT_2024-08-09.csv
+2026-10-18 11:54:52,301 [INFO] 40/60 Convertido: HSPLIT_2024-08-10.xlsx -> HSPLIT_2024-08-10.csv
+2026-10-18 11:54:53,034 [INFO] 41/60 Convertido: HSPLIT_2024-08-11.xlsx -> HSPLIT_2024-08-11.csv
+2026-10-18 11:54:53,931 [INFO] 42/60 Convertido: HSPLIT_2024-08-12.xlsx -> HSPLIT_2024-08-12.csv
+2026-10-18 11:54:54,853 [INFO] 43/60 Convertido: HSPLIT_2024-08-13.xlsx -> HSPLIT_2024-08-13.csv
+2026-10-18 11:54:55,780 [INFO] 44/60 Convertido: HSPLIT_2024-08-14.xlsx -> HSPLIT_2024-08-14.csv
+2026-10-18 11:54:56,698 [INFO] 45/60 Convertido: HSPLIT_2024-08-15.xlsx -> HSPLIT_2024-08-15.csv
+2026-10-18 11:54:57,568 [INFO] 46/60 Convertido: HSPLIT_2024-08-16.xlsx -> HSPLIT_2024-08-16.csv
+2026-10-18 11:54:58,246 [INFO] 47/60 Convertido: HSPLIT_2024-08-17.xlsx -> HSPLIT_2024-08-17.csv
+2026-10-18 11:54:58,939 [INFO] 48/60 Convertido: HSPLIT_2024-08-18.xlsx -> HSPLIT_2024-08-18.csv
+2026-10-18 11:54:59,749 [INFO] 49/60 Convertido: HSPLIT_2024-08-19.xlsx -> HSPLIT_2024-08-19.csv
+2026-10-18 11:55:00,682 [INFO] 50/60 Convertido: HSPLIT_2024-08-20.xlsx -> HSPLIT_2024-08-20.csv
+2026-10-18 11:55:01,616 [INFO] 51/60 Convertido: HSPLIT_2024-08-21.xlsx -> HSPLIT_2024-08-21.csv
+2026-10-18 11:55:02,492 [INFO] 52/60 Convertido: HSPLIT_2024-08-22.xlsx -> HSPLIT_2024-08-22.csv
+2026-10-18 11:55:03,355 [INFO] 53/60 Convertido: HSPLIT_2024-08-23.xlsx -> HSPLIT_2024-08-23.csv
+2026-10-18 11:55:04,161 [INFO] 54/60 Convertido: HSPLIT_2024-08-24.xlsx -> HSPLIT_2024-08-24.csv
+2026-10-18 11:55:04,986 [INFO] 55/60 Convertido: HSPLIT_2024-08-25.xlsx -> HSPLIT_2024-08-25.csv
+2026-10-18 11:55:05,908 [INFO] 56/60 Convertido: HSPLIT_2024-08-26.xlsx -> HSPLIT_2024-08-26.csv
+2026-10-18 11:55:06,861 [INFO] 57/60 Convertido: HSPLIT_2024-08-27.xlsx -> HSPLIT_2024-08-27.csv
+2026-10-18 11:55:07,798 [INFO] 58/60 Convertido: HSPLIT_2024-08-28.xlsx -> HSPLIT_2024-08-28.csv
+2026-10-18 11:55:08,667 [INFO] 59/60 Convertido: HSPLIT_2024-08-29.xlsx -> HSPLIT_2024-08-29.csv
+2026-10-18 11:55:09,570 [INFO] 60/60 Convertido: HSPLIT_2024-08-30.xlsx -> HSPLIT_2024-08-30.csv
+2026-10-18 11:55:09,570 [INFO] Conversões finalizadas com sucesso!
+2026-10-18 11:55:09,570 [INFO] ===== PIPELINE CONCLUÍDO COM SUCESSO! =====
+2026-10-18 11:55:09,570 [INFO] Aguardando 0 minutos para a próxima execução do pipeline...
+2026-10-18 11:55:19,571 [INFO] =====INÍCIO DO PIPELINE DO INTRADAY=====
+2026-10-18 11:55:19,572 [INFO] =====1: Extração do Airtable=====
+2026-10-18 11:55:20,328 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:55:20,962 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:55:20,978 [INFO] Airtable concluído: 0 linhas de FORECAST, 0 de DEPARA_SKILL.
+2026-10-18 11:55:20,978 [INFO] =====2: Extração do Kaggle=====
+2026-10-18 11:55:20,979 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-18 11:55:20,979 [INFO] ====== WebDriver manager ======
+2026-10-18 11:55:21,627 [INFO] Driver [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-18 11:55:23,442 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-18 11:55:27,445 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-18 11:55:29,789 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-18 11:55:29,948 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-18 11:55:29,949 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-18 11:55:29,950 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-18 11:55:33,964 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-18 11:55:37,697 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-18 11:55:38,010 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-18 11:55:38,392 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-18 11:55:41,578 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-18 11:55:44,969 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-18 11:55:48,351 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
+2026-10-18 11:55:51,714 [INFO] 8/60 Convertido: HAGENT_2024-08-08.xlsx -> HAGENT_2024-08-08.csv
+2026-10-18 11:55:54,794 [INFO] 9/60 Convertido: HAGENT_2024-08-09.xlsx -> HAGENT_2024-08-09.csv
+2026-10-18 11:55:55,226 [INFO] 10/60 Convertido: HAGENT_2024-08-10.xlsx -> HAGENT_2024-08-10.csv
+2026-10-18 11:55:55,574 [INFO] 11/60 Convertido: HAGENT_2024-08-11.xlsx -> HAGENT_2024-08-11.csv
+2026-10-18 11:55:58,796 [INFO] 12/60 Convertido: HAGENT_2024-08-12.xlsx -> HAGENT_2024-08-12.csv
+2026-10-18 11:56:02,325 [INFO] 13/60 Convertido: HAGENT_2024-08-13.xlsx -> HAGENT_2024-08-13.csv
+2026-10-18 11:56:06,016 [INFO] 14/60 Convertido: HAGENT_2024-08-14.xlsx -> HAGENT_2024-08-14.csv
+2026-10-18 11:56:09,492 [INFO] 15/60 Convertido: HAGENT_2024-08-15.xlsx -> HAGENT_2024-08-15.csv
+2026-10-18 11:56:12,420 [INFO] 16/60 Convertido: HAGENT_2024-08-16.xlsx -> HAGENT_2024-08-16.csv
+2026-10-18 11:56:12,867 [INFO] 17/60 Convertido: HAGENT_2024-08-17.xlsx -> HAGENT_2024-08-17.csv
+2026-10-18 11:56:13,319 [INFO] 18/60 Convertido: HAGENT_2024-08-18.xlsx -> HAGENT_2024-08-18.csv
+2026-10-18 11:56:16,572 [INFO] 19/60 Convertido: HAGENT_2024-08-19.xlsx -> HAGENT_2024-08-19.csv
+2026-10-18 11:56:19,901 [INFO] 20/60 Convertido: HAGENT_2024-08-20.xlsx -> HAGENT_2024-08-20.csv
+2026-10-18 11:56:23,151 [INFO] 21/60 Convertido: HAGENT_2024-08-21.xlsx -> HAGENT_2024-08-21.csv
+2026-10-18 11:56:26,235 [INFO] 22/60 Convertido: HAGENT_2024-08-22.xlsx -> HAGENT_2024-08-22.csv
+2026-10-18 11:56:29,124 [INFO] 23/60 Convertido: HAGENT_2024-08-23.xlsx -> HAGENT_2024-08-23.csv
+2026-10-18 11:56:29,651 [INFO] 24/60 Convertido: HAGENT_2024-08-24.xlsx -> HAGENT_2024-08-24.csv
+2026-10-18 11:56:30,088 [INFO] 25/60 Convertido: HAGENT_2024-08-25.xlsx -> HAGENT_2024-08-25.csv
+2026-10-18 11:56:33,340 [INFO] 26/60 Convertido: HAGENT_2024-08-26.xlsx -> HAGENT_2024-08-26.csv
+2026-10-18 11:56:36,425 [INFO] 27/60 Convertido: HAGENT_2024-08-27.xlsx -> HAGENT_2024-08-27.csv
+2026-10-18 11:56:39,904 [INFO] 28/60 Convertido: HAGENT_2024-08-28.xlsx -> HAGENT_2024-08-28.csv
+2026-10-18 11:56:43,903 [INFO] 29/60 Convertido: HAGENT_2024-08-29.xlsx -> HAGENT_2024-08-29.csv
+2026-10-18 11:56:47,697 [INFO] 30/60 Convertido: HAGENT_2024-08-30.xlsx -> HAGENT_2024-08-30.csv
+2026-10-18 11:56:48,604 [INFO] 31/60 Convertido: HSPLIT_2024-08-01.xlsx -> HSPLIT_2024-08-01.csv
+2026-10-18 11:56:49,542 [INFO] 32/60 Convertido: HSPLIT_2024-08-02.xlsx -> HSPLIT_2024-08-02.csv
+2026-10-18 11:56:50,270 [INFO] 33/60 Convertido: HSPLIT_2024-08-03.xlsx -> HSPLIT_2024-08-03.csv
+2026-10-18 11:56:50,987 [INFO] 34/60 Convertido: HSPLIT_2024-08-04.xlsx -> HSPLIT_2024-08-04.csv
+2026-10-18 11:56:51,857 [INFO] 35/60 Convertido: HSPLIT_2024-08-05.xlsx -> HSPLIT_2024-08-05.csv
+2026-10-18 11:56:52,754 [INFO] 36/60 Convertido: HSPLIT_2024-08-06.xlsx -> HSPLIT_2024-08-06.csv
+2026-10-18 11:56:53,643 [INFO] 37/60 Convertido: HSPLIT_2024-08-07.xlsx -> HSPLIT_2024-08-07.csv
+2026-10-18 11:56:54,562 [INFO] 38/60 Convertido: HSPLIT_2024-08-08.xlsx -> HSPLIT_2024-08-08.csv
+2026-10-18 11:56:55,426 [INFO] 39/60 Convertido: HSPLIT_2024-08-09.xlsx -> HSPLIT_2024-08-09.csv
+2026-10-18 11:56:56,132 [INFO] 40/60 Convertido: HSPLIT_2024-08-10.xlsx -> HSPLIT_2024-08-10.csv
+2026-10-18 11:56:56,839 [INFO] 41/60 Convertido: HSPLIT_2024-08-11.xlsx -> HSPLIT_2024-08-11.csv
+2026-10-18 11:56:57,743 [INFO] 42/60 Convertido: HSPLIT_2024-08-12.xlsx -> HSPLIT_2024-08-12.csv
+2026-10-18 11:56:58,655 [INFO] 43/60 Convertido: HSPLIT_2024-08-13.xlsx -> HSPLIT_2024-08-13.csv
+2026-10-18 11:56:59,561 [INFO] 44/60 Convertido: HSPLIT_2024-08-14.xlsx -> HSPLIT_2024-08-14.csv
+2026-10-18 11:57:00,459 [INFO] 45/60 Convertido: HSPLIT_2024-08-15.xlsx -> HSPLIT_2024-08-15.csv
+2026-10-18 11:57:01,305 [INFO] 46/60 Convertido: HSPLIT_2024-08-16.xlsx -> HSPLIT_2024-08-16.csv
+2026-10-18 11:57:01,991 [INFO] 47/60 Convertido: HSPLIT_2024-08-17.xlsx -> HSPLIT_2024-08-17.csv
+2026-10-18 11:57:02,668 [INFO] 48/60 Convertido: HSPLIT_2024-08-18.xlsx -> HSPLIT_2024-08-18.csv
+2026-10-18 11:57:03,475 [INFO] 49/60 Convertido: HSPLIT_2024-08-19.xlsx -> HSPLIT_2024-08-19.csv
+2026-10-18 11:57:04,412 [INFO] 50/60 Convertido: HSPLIT_2024-08-20.xlsx -> HSPLIT_2024-08-20.csv
+2026-10-18 11:57:05,337 [INFO] 51/60 Convertido: HSPLIT_2024-08-21.xlsx -> HSPLIT_2024-08-21.csv
+2026-10-18 11:57:06,190 [INFO] 52/60 Convertido: HSPLIT_2024-08-22.xlsx -> HSPLIT_2024-08-22.csv
+2026-10-18 11:57:07,081 [INFO] 53/60 Convertido: HSPLIT_2024-08-23.xlsx -> HSPLIT_2024-08-23.csv
+2026-10-18 11:57:07,935 [INFO] 54/60 Convertido: HSPLIT_2024-08-24.xlsx -> HSPLIT_2024-08-24.csv
+2026-10-18 11:57:08,758 [INFO] 55/60 Convertido: HSPLIT_2024-08-25.xlsx -> HSPLIT_2024-08-25.csv
+2026-10-18 11:57:09,683 [INFO] 56/60 Convertido: HSPLIT_2024-08-26.xlsx -> HSPLIT_2024-08-26.csv
+2026-10-18 11:57:10,636 [INFO] 57/60 Convertido: HSPLIT_2024-08-27.xlsx -> HSPLIT_2024-08-27.csv
+2026-10-18 11:57:11,522 [INFO] 58/60 Convertido: HSPLIT_2024-08-28.xlsx -> HSPLIT_2024-08-28.csv
+2026-10-18 11:57:12,380 [INFO] 59/60 Convertido: HSPLIT_2024-08-29.xlsx -> HSPLIT_2024-08-29.csv
+2026-10-18 11:57:13,236 [INFO] 60/60 Convertido: HSPLIT_2024-08-30.xlsx -> HSPLIT_2024-08-30.csv
+2026-10-18 11:57:13,236 [INFO] Conversões finalizadas com sucesso!
+2026-10-18 11:57:13,237 [INFO] ===== PIPELINE CONCLUÍDO COM SUCESSO! =====
+2026-10-18 11:57:13,237 [INFO] Aguardando 0 minutos para a próxima execução do pipeline...
+2026-10-18 11:57:23,238 [INFO] =====INÍCIO DO PIPELINE DO INTRADAY=====
+2026-10-18 11:57:23,241 [INFO] =====1: Extração do Airtable=====
+2026-10-18 11:57:24,087 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:57:24,785 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:57:24,801 [INFO] Airtable concluído: 0 linhas de FORECAST, 0 de DEPARA_SKILL.
+2026-10-18 11:57:24,802 [INFO] =====2: Extração do Kaggle=====
+2026-10-18 11:57:24,802 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-18 11:57:24,802 [INFO] ====== WebDriver manager ======
+2026-10-18 11:57:25,355 [INFO] Driver [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-18 11:57:26,980 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-18 11:57:30,986 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-18 11:57:33,279 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-18 11:57:33,446 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-18 11:57:33,447 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-18 11:57:33,448 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-18 11:57:37,394 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-18 11:57:41,030 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-18 11:57:41,328 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-18 11:57:41,778 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-18 11:57:44,931 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-18 11:57:48,261 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-18 11:57:51,578 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
+2026-10-18 11:57:54,992 [INFO] 8/60 Convertido: HAGENT_2024-08-08.xlsx -> HAGENT_2024-08-08.csv
+2026-10-18 11:57:58,087 [INFO] 9/60 Convertido: HAGENT_2024-08-09.xlsx -> HAGENT_2024-08-09.csv
+2026-10-18 11:57:58,502 [INFO] 10/60 Convertido: HAGENT_2024-08-10.xlsx -> HAGENT_2024-08-10.csv
+2026-10-18 11:57:58,842 [INFO] 11/60 Convertido: HAGENT_2024-08-11.xlsx -> HAGENT_2024-08-11.csv
+2026-10-18 11:58:02,089 [INFO] 12/60 Convertido: HAGENT_2024-08-12.xlsx -> HAGENT_2024-08-12.csv
+2026-10-18 11:58:05,366 [INFO] 13/60 Convertido: HAGENT_2024-08-13.xlsx -> HAGENT_2024-08-13.csv
+2026-10-18 11:58:08,749 [INFO] 14/60 Convertido: HAGENT_2024-08-14.xlsx -> HAGENT_2024-08-14.csv
+2026-10-18 11:58:12,190 [INFO] 15/60 Convertido: HAGENT_2024-08-15.xlsx -> HAGENT_2024-08-15.csv
+2026-10-18 11:58:15,180 [INFO] 16/60 Convertido: HAGENT_2024-08-16.xlsx -> HAGENT_2024-08-16.csv
+2026-10-18 11:58:15,639 [INFO] 17/60 Convertido: HAGENT_2024-08-17.xlsx -> HAGENT_2024-08-17.csv
+2026-10-18 11:58:16,094 [INFO] 18/60 Convertido: HAGENT_2024-08-18.xlsx -> HAGENT_2024-08-18.csv
+2026-10-18 11:58:19,290 [INFO] 19/60 Convertido: HAGENT_2024-08-19.xlsx -> HAGENT_2024-08-19.csv
+2026-10-18 11:58:22,544 [INFO] 20/60 Convertido: HAGENT_2024-08-20.xlsx -> HAGENT_2024-08-20.csv
+2026-10-18 11:58:25,827 [INFO] 21/60 Convertido: HAGENT_2024-08-21.xlsx -> HAGENT_2024-08-21.csv
+2026-10-18 11:58:28,925 [INFO] 22/60 Convertido: HAGENT_2024-08-22.xlsx -> HAGENT_2024-08-22.csv
+2026-10-18 11:58:32,026 [INFO] 23/60 Convertido: HAGENT_2024-08-23.xlsx -> HAGENT_2024-08-23.csv
+2026-10-18 11:58:32,525 [INFO] 24/60 Convertido: HAGENT_2024-08-24.xlsx -> HAGENT_2024-08-24.csv
+2026-10-18 11:58:33,001 [INFO] 25/60 Convertido: HAGENT_2024-08-25.xlsx -> HAGENT_2024-08-25.csv
+2026-10-18 11:58:36,375 [INFO] 26/60 Convertido: HAGENT_2024-08-26.xlsx -> HAGENT_2024-08-26.csv
+2026-10-18 11:58:39,649 [INFO] 27/60 Convertido: HAGENT_2024-08-27.xlsx -> HAGENT_2024-08-27.csv
+2026-10-18 11:58:43,120 [INFO] 28/60 Convertido: HAGENT_2024-08-28.xlsx -> HAGENT_2024-08-28.csv
+2026-10-18 11:58:47,014 [INFO] 29/60 Convertido: HAGENT_2024-08-29.xlsx -> HAGENT_2024-08-29.csv
+2026-10-18 11:58:50,720 [INFO] 30/60 Convertido: HAGENT_2024-08-30.xlsx -> HAGENT_2024-08-30.csv
+2026-10-18 11:58:51,667 [INFO] 31/60 Convertido: HSPLIT_2024-08-01.xlsx -> HSPLIT_2024-08-01.csv
+2026-10-18 11:58:52,599 [INFO] 32/60 Convertido: HSPLIT_2024-08-02.xlsx -> HSPLIT_2024-08-02.csv
+2026-10-18 11:58:53,304 [INFO] 33/60 Convertido: HSPLIT_2024-08-03.xlsx -> HSPLIT_2024-08-03.csv
+2026-10-18 11:58:54,064 [INFO] 34/60 Convertido: HSPLIT_2024-08-04.xlsx -> HSPLIT_2024-08-04.csv
+2026-10-18 11:58:55,313 [INFO] 35/60 Convertido: HSPLIT_2024-08-05.xlsx -> HSPLIT_2024-08-05.csv
+2026-10-18 11:58:56,894 [INFO] 36/60 Convertido: HSPLIT_2024-08-06.xlsx -> HSPLIT_2024-08-06.csv
+2026-10-18 11:58:58,313 [INFO] 37/60 Convertido: HSPLIT_2024-08-07.xlsx -> HSPLIT_2024-08-07.csv
+2026-10-18 11:58:59,813 [INFO] 38/60 Convertido: HSPLIT_2024-08-08.xlsx -> HSPLIT_2024-08-08.csv
+2026-10-18 11:59:01,132 [INFO] 39/60 Convertido: HSPLIT_2024-08-09.xlsx -> HSPLIT_2024-08-09.csv
+2026-10-18 11:59:02,044 [INFO] 40/60 Convertido: HSPLIT_2024-08-10.xlsx -> HSPLIT_2024-08-10.csv
+2026-10-18 11:59:03,392 [INFO] 41/60 Convertido: HSPLIT_2024-08-11.xlsx -> HSPLIT_2024-08-11.csv
+2026-10-18 11:59:04,606 [INFO] 42/60 Convertido: HSPLIT_2024-08-12.xlsx -> HSPLIT_2024-08-12.csv
+2026-10-18 11:59:05,711 [INFO] 43/60 Convertido: HSPLIT_2024-08-13.xlsx -> HSPLIT_2024-08-13.csv
+2026-10-18 11:59:06,829 [INFO] 44/60 Convertido: HSPLIT_2024-08-14.xlsx -> HSPLIT_2024-08-14.csv
+2026-10-18 11:59:07,981 [INFO] 45/60 Convertido: HSPLIT_2024-08-15.xlsx -> HSPLIT_2024-08-15.csv
+2026-10-18 11:59:08,991 [INFO] 46/60 Convertido: HSPLIT_2024-08-16.xlsx -> HSPLIT_2024-08-16.csv
+2026-10-18 11:59:09,863 [INFO] 47/60 Convertido: HSPLIT_2024-08-17.xlsx -> HSPLIT_2024-08-17.csv
+2026-10-18 11:59:10,902 [INFO] 48/60 Convertido: HSPLIT_2024-08-18.xlsx -> HSPLIT_2024-08-18.csv
+2026-10-18 11:59:11,969 [INFO] 49/60 Convertido: HSPLIT_2024-08-19.xlsx -> HSPLIT_2024-08-19.csv
+2026-10-18 11:59:13,176 [INFO] 50/60 Convertido: HSPLIT_2024-08-20.xlsx -> HSPLIT_2024-08-20.csv
+2026-10-18 11:59:14,335 [INFO] 51/60 Convertido: HSPLIT_2024-08-21.xlsx -> HSPLIT_2024-08-21.csv
+2026-10-18 11:59:15,420 [INFO] 52/60 Convertido: HSPLIT_2024-08-22.xlsx -> HSPLIT_2024-08-22.csv
+2026-10-18 11:59:16,544 [INFO] 53/60 Convertido: HSPLIT_2024-08-23.xlsx -> HSPLIT_2024-08-23.csv
+2026-10-18 11:59:17,489 [INFO] 54/60 Convertido: HSPLIT_2024-08-24.xlsx -> HSPLIT_2024-08-24.csv
+2026-10-18 11:59:18,458 [INFO] 55/60 Convertido: HSPLIT_2024-08-25.xlsx -> HSPLIT_2024-08-25.csv
+2026-10-18 11:59:19,520 [INFO] 56/60 Convertido: HSPLIT_2024-08-26.xlsx -> HSPLIT_2024-08-26.csv
+2026-10-18 11:59:20,915 [INFO] 57/60 Convertido: HSPLIT_2024-08-27.xlsx -> HSPLIT_2024-08-27.csv
+2026-10-18 11:59:23,162 [INFO] 58/60 Convertido: HSPLIT_2024-08-28.xlsx -> HSPLIT_2024-08-28.csv
+2026-10-18 11:59:24,641 [INFO] 59/60 Convertido: HSPLIT_2024-08-29.xlsx -> HSPLIT_2024-08-29.csv
+2026-10-18 11:59:25,776 [INFO] 60/60 Convertido: HSPLIT_2024-08-30.xlsx -> HSPLIT_2024-08-30.csv
+2026-10-18 11:59:25,777 [INFO] Conversões finalizadas com sucesso!
+2026-10-18 11:59:25,777 [INFO] ===== PIPELINE CONCLUÍDO COM SUCESSO! =====
+2026-10-18 11:59:25,778 [INFO] Aguardando 0 minutos para a próxima execução do pipeline...
+2026-10-18 11:59:35,778 [INFO] =====INÍCIO DO PIPELINE DO INTRADAY=====
+2026-10-18 11:59:35,780 [INFO] =====1: Extração do Airtable=====
+2026-10-18 11:59:36,552 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:59:37,201 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 11:59:37,220 [INFO] Airtable concluído: 0 linhas de FORECAST, 0 de DEPARA_SKILL.
+2026-10-18 11:59:37,221 [INFO] =====2: Extração do Kaggle=====
+2026-10-18 11:59:37,221 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-18 11:59:37,221 [INFO] ====== WebDriver manager ======
+2026-10-18 11:59:37,995 [INFO] Driver [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-18 11:59:40,384 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-18 11:59:44,390 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-18 11:59:46,662 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-18 11:59:46,812 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-18 11:59:46,813 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-18 11:59:46,814 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-18 11:59:51,467 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-18 11:59:56,355 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-18 11:59:56,894 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-18 11:59:57,462 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-18 12:00:02,559 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-18 12:00:06,703 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-18 12:00:10,861 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
+2026-10-18 12:00:14,786 [INFO] 8/60 Convertido: HAGENT_2024-08-08.xlsx -> HAGENT_2024-08-08.csv
+2026-10-18 12:00:18,446 [INFO] 9/60 Convertido: HAGENT_2024-08-09.xlsx -> HAGENT_2024-08-09.csv
+2026-10-18 12:00:18,935 [INFO] 10/60 Convertido: HAGENT_2024-08-10.xlsx -> HAGENT_2024-08-10.csv
+2026-10-18 12:00:19,373 [INFO] 11/60 Convertido: HAGENT_2024-08-11.xlsx -> HAGENT_2024-08-11.csv
+2026-10-18 12:00:23,684 [INFO] 12/60 Convertido: HAGENT_2024-08-12.xlsx -> HAGENT_2024-08-12.csv
+2026-10-18 12:00:27,674 [INFO] 13/60 Convertido: HAGENT_2024-08-13.xlsx -> HAGENT_2024-08-13.csv
+2026-10-18 12:00:31,828 [INFO] 14/60 Convertido: HAGENT_2024-08-14.xlsx -> HAGENT_2024-08-14.csv
+2026-10-18 12:00:36,035 [INFO] 15/60 Convertido: HAGENT_2024-08-15.xlsx -> HAGENT_2024-08-15.csv
+2026-10-18 12:00:39,717 [INFO] 16/60 Convertido: HAGENT_2024-08-16.xlsx -> HAGENT_2024-08-16.csv
+2026-10-18 12:00:40,201 [INFO] 17/60 Convertido: HAGENT_2024-08-17.xlsx -> HAGENT_2024-08-17.csv
+2026-10-18 12:00:40,765 [INFO] 18/60 Convertido: HAGENT_2024-08-18.xlsx -> HAGENT_2024-08-18.csv
+2026-10-18 12:00:44,954 [INFO] 19/60 Convertido: HAGENT_2024-08-19.xlsx -> HAGENT_2024-08-19.csv
+2026-10-18 12:00:49,239 [INFO] 20/60 Convertido: HAGENT_2024-08-20.xlsx -> HAGENT_2024-08-20.csv
+2026-10-18 12:00:52,955 [INFO] 21/60 Convertido: HAGENT_2024-08-21.xlsx -> HAGENT_2024-08-21.csv
+2026-10-18 12:00:56,561 [INFO] 22/60 Convertido: HAGENT_2024-08-22.xlsx -> HAGENT_2024-08-22.csv
+2026-10-18 12:01:00,068 [INFO] 23/60 Convertido: HAGENT_2024-08-23.xlsx -> HAGENT_2024-08-23.csv
+2026-10-18 12:01:00,716 [INFO] 24/60 Convertido: HAGENT_2024-08-24.xlsx -> HAGENT_2024-08-24.csv
+2026-10-18 12:01:01,237 [INFO] 25/60 Convertido: HAGENT_2024-08-25.xlsx -> HAGENT_2024-08-25.csv
+2026-10-18 12:01:05,730 [INFO] 26/60 Convertido: HAGENT_2024-08-26.xlsx -> HAGENT_2024-08-26.csv
+2026-10-18 12:01:09,195 [INFO] 27/60 Convertido: HAGENT_2024-08-27.xlsx -> HAGENT_2024-08-27.csv
+2026-10-18 12:01:13,363 [INFO] 28/60 Convertido: HAGENT_2024-08-28.xlsx -> HAGENT_2024-08-28.csv
+2026-10-18 12:01:18,380 [INFO] 29/60 Convertido: HAGENT_2024-08-29.xlsx -> HAGENT_2024-08-29.csv
+2026-10-18 12:01:22,484 [INFO] 30/60 Convertido: HAGENT_2024-08-30.xlsx -> HAGENT_2024-08-30.csv
+2026-10-18 12:01:23,554 [INFO] 31/60 Convertido: HSPLIT_2024-08-01.xlsx -> HSPLIT_2024-08-01.csv
+2026-10-18 12:01:25,125 [INFO] 32/60 Convertido: HSPLIT_2024-08-02.xlsx -> HSPLIT_2024-08-02.csv
+2026-10-18 12:01:26,037 [INFO] 33/60 Convertido: HSPLIT_2024-08-03.xlsx -> HSPLIT_2024-08-03.csv
+2026-10-18 12:01:26,880 [INFO] 34/60 Convertido: HSPLIT_2024-08-04.xlsx -> HSPLIT_2024-08-04.csv
+2026-10-18 12:01:27,976 [INFO] 35/60 Convertido: HSPLIT_2024-08-05.xlsx -> HSPLIT_2024-08-05.csv
+2026-10-18 12:01:29,119 [INFO] 36/60 Convertido: HSPLIT_2024-08-06.xlsx -> HSPLIT_2024-08-06.csv
+2026-10-18 12:01:30,184 [INFO] 37/60 Convertido: HSPLIT_2024-08-07.xlsx -> HSPLIT_2024-08-07.csv
+2026-10-18 12:01:31,207 [INFO] 38/60 Convertido: HSPLIT_2024-08-08.xlsx -> HSPLIT_2024-08-08.csv
+2026-10-18 12:01:32,218 [INFO] 39/60 Convertido: HSPLIT_2024-08-09.xlsx -> HSPLIT_2024-08-09.csv
+2026-10-18 12:01:33,157 [INFO] 40/60 Convertido: HSPLIT_2024-08-10.xlsx -> HSPLIT_2024-08-10.csv
+2026-10-18 12:01:34,050 [INFO] 41/60 Convertido: HSPLIT_2024-08-11.xlsx -> HSPLIT_2024-08-11.csv
+2026-10-18 12:01:35,135 [INFO] 42/60 Convertido: HSPLIT_2024-08-12.xlsx -> HSPLIT_2024-08-12.csv
+2026-10-18 12:01:36,281 [INFO] 43/60 Convertido: HSPLIT_2024-08-13.xlsx -> HSPLIT_2024-08-13.csv
+2026-10-18 12:01:37,329 [INFO] 44/60 Convertido: HSPLIT_2024-08-14.xlsx -> HSPLIT_2024-08-14.csv
+2026-10-18 12:01:38,402 [INFO] 45/60 Convertido: HSPLIT_2024-08-15.xlsx -> HSPLIT_2024-08-15.csv
+2026-10-18 12:01:39,359 [INFO] 46/60 Convertido: HSPLIT_2024-08-16.xlsx -> HSPLIT_2024-08-16.csv
+2026-10-18 12:01:40,185 [INFO] 47/60 Convertido: HSPLIT_2024-08-17.xlsx -> HSPLIT_2024-08-17.csv
+2026-10-18 12:01:40,963 [INFO] 48/60 Convertido: HSPLIT_2024-08-18.xlsx -> HSPLIT_2024-08-18.csv
+2026-10-18 12:01:41,917 [INFO] 49/60 Convertido: HSPLIT_2024-08-19.xlsx -> HSPLIT_2024-08-19.csv
+2026-10-18 12:01:43,081 [INFO] 50/60 Convertido: HSPLIT_2024-08-20.xlsx -> HSPLIT_2024-08-20.csv
+2026-10-18 12:01:44,285 [INFO] 51/60 Convertido: HSPLIT_2024-08-21.xlsx -> HSPLIT_2024-08-21.csv
+2026-10-18 12:01:45,518 [INFO] 52/60 Convertido: HSPLIT_2024-08-22.xlsx -> HSPLIT_2024-08-22.csv
+2026-10-18 12:01:46,782 [INFO] 53/60 Convertido: HSPLIT_2024-08-23.xlsx -> HSPLIT_2024-08-23.csv
+2026-10-18 12:01:47,711 [INFO] 54/60 Convertido: HSPLIT_2024-08-24.xlsx -> HSPLIT_2024-08-24.csv
+2026-10-18 12:01:48,744 [INFO] 55/60 Convertido: HSPLIT_2024-08-25.xlsx -> HSPLIT_2024-08-25.csv
+2026-10-18 12:01:49,860 [INFO] 56/60 Convertido: HSPLIT_2024-08-26.xlsx -> HSPLIT_2024-08-26.csv
+2026-10-18 12:01:51,106 [INFO] 57/60 Convertido: HSPLIT_2024-08-27.xlsx -> HSPLIT_2024-08-27.csv
+2026-10-18 12:01:52,260 [INFO] 58/60 Convertido: HSPLIT_2024-08-28.xlsx -> HSPLIT_2024-08-28.csv
+2026-10-18 12:01:53,477 [INFO] 59/60 Convertido: HSPLIT_2024-08-29.xlsx -> HSPLIT_2024-08-29.csv
+2026-10-18 12:01:54,721 [INFO] 60/60 Convertido: HSPLIT_2024-08-30.xlsx -> HSPLIT_2024-08-30.csv
+2026-10-18 12:01:54,721 [INFO] Conversões finalizadas com sucesso!
+2026-10-18 12:01:54,722 [INFO] ===== PIPELINE CONCLUÍDO COM SUCESSO! =====
+2026-10-18 12:01:54,722 [INFO] Aguardando 0 minutos para a próxima execução do pipeline...
+2026-10-18 12:02:04,723 [INFO] =====INÍCIO DO PIPELINE DO INTRADAY=====
+2026-10-18 12:02:04,725 [INFO] =====1: Extração do Airtable=====
+2026-10-18 12:02:05,528 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 12:02:06,245 [INFO] Página coletada com sucesso. Total acumulado: 0 registros...
+2026-10-18 12:02:06,267 [INFO] Airtable concluído: 0 linhas de FORECAST, 0 de DEPARA_SKILL.
+2026-10-18 12:02:06,268 [INFO] =====2: Extração do Kaggle=====
+2026-10-18 12:02:06,268 [INFO] Iniciando o navegador pelo Selenium para baixar os dados do Kaggle...
+2026-10-18 12:02:06,269 [INFO] ====== WebDriver manager ======
+2026-10-18 12:02:06,957 [INFO] Driver [C:\Users\mikec\.wdm\drivers\chromedriver\win64\155.0.8059.84\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-18 12:02:09,353 [INFO] Dowload acionado. Esperando finalização do arquivo...
+2026-10-18 12:02:13,360 [INFO] Download concluído com sucesso: C:\Users\mikec\OneDrive\Documentos\Profissional\Projetos\prova_Mike_Carvalho_Borges_neobpo_data\1_Python\data\archive.zip
+2026-10-18 12:02:15,589 [INFO] Descompactando arquivos de Excel na pasta 'data'...
+2026-10-18 12:02:15,799 [INFO] Arquivos extraídos e arquivo ZIP removido com sucesso!
+2026-10-18 12:02:15,799 [INFO] Iniciando a conversão de Excel para para CSV...
+2026-10-18 12:02:15,801 [INFO] Total de 60 arquivos de Excel encontrados para serem convertidos.
+2026-10-18 12:02:21,241 [INFO] 1/60 Convertido: HAGENT_2024-08-01.xlsx -> HAGENT_2024-08-01.csv
+2026-10-18 12:02:25,832 [INFO] 2/60 Convertido: HAGENT_2024-08-02.xlsx -> HAGENT_2024-08-02.csv
+2026-10-18 12:02:26,191 [INFO] 3/60 Convertido: HAGENT_2024-08-03.xlsx -> HAGENT_2024-08-03.csv
+2026-10-18 12:02:26,626 [INFO] 4/60 Convertido: HAGENT_2024-08-04.xlsx -> HAGENT_2024-08-04.csv
+2026-10-18 12:02:30,953 [INFO] 5/60 Convertido: HAGENT_2024-08-05.xlsx -> HAGENT_2024-08-05.csv
+2026-10-18 12:02:34,886 [INFO] 6/60 Convertido: HAGENT_2024-08-06.xlsx -> HAGENT_2024-08-06.csv
+2026-10-18 12:02:39,777 [INFO] 7/60 Convertido: HAGENT_2024-08-07.xlsx -> HAGENT_2024-08-07.csv
